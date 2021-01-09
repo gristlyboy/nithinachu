@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nithinvachu" target="blank"><img src="https://img.shields.io/twitter/follow/nithinvachu?logo=twitter&style=for-the-badge" alt="nithinvachu" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Certified Information Security Professional (CISP)**
 
 - 📫 How to reach me **nithin.achu98@gmail.com**
 
